@@ -1,6 +1,7 @@
 {
   "data": [
     {
+      "adlid": 1,
       "adlBeginDate": "2019-11-1",
       "adlEndDate": "2019-12-1",
       "dailyHours": 8,
@@ -12,7 +13,8 @@
       "adlEntered_date": "2019-11-1"
     },
     {
-     "adlBeginDate": "2019-11-2",
+      "adlid": 2,
+      "adlBeginDate": "2019-11-2",
       "adlEndDate": "2019-12-2",
       "dailyHours": 10,
       "adlType": 1,
