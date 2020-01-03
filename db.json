@@ -7,10 +7,10 @@
       "dailyHours": 8,
       "adlType": 1,
       "adlDivision": "Div Name 1",
-      "adlTitle_code": "12",
+      "adlTitleCode": "12",
       "adlComments": "Comment1",
-      "adlEntered_by": 1,
-      "adlEntered_date": "2019-11-1"
+      "adlEnteredBy": 1,
+      "adlEnteredDate": "2019-11-1"
     },
     {
       "adlid": 2,
@@ -21,8 +21,8 @@
       "adlDivision": "Div Name 2",
       "adlTitle_code": "12",
       "adlComments": "Comment2",
-      "adlEntered_by": 1,
-      "adlEntered_date": "2019-11-1"
+      "adlEnteredBy": 1,
+      "adlEnteredDate": "2019-11-1"
     }
   ]
 }
