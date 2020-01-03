@@ -4,7 +4,7 @@
  
   "data": [
     {
-      "adlid": 1,
+      "adLid": 1,
       "adlBeginDate": "2019-11-1",
       "adlEndDate": "2019-12-1",
       "dailyHours": 8,
