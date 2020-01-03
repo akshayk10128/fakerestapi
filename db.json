@@ -1,14 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+    {
+      "adlBeginDate": "2019-11-1",
+      "adlEndDate": "2019-12-1",
+      "dailyHours": 8,
+      "adlType": 1,
+      "adlDivision": "Div Name 1",
+      "adlTitle_code": "12",
+      "adlComments": "Comment1",
+      "adlEntered_by": 1,
+      "adlEntered_date": "2019-11-1"
+    },
+    {
+     "adlBeginDate": "2019-11-2",
+      "adlEndDate": "2019-12-2",
+      "dailyHours": 10,
+      "adlType": 1,
+      "adlDivision": "Div Name 2",
+      "adlTitle_code": "12",
+      "adlComments": "Comment2",
+      "adlEntered_by": 1,
+      "adlEntered_date": "2019-11-1"
+    }
+  ]
 }
