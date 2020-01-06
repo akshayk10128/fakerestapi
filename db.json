@@ -1,4 +1,45 @@
 {
+  "titleCode":{
+'data':[
+  {
+    "cTitleCode": "DS100",
+    "cTitleDesc": "DSF Manager",
+    "cUnionTitle": "Managerial",
+    "cFlsa": "X",
+    "fSlDays": 0,
+    "fAlDays": 0,
+    "fDhDays": 0,
+    "cDhGrant": null,
+    "cStatus": null,
+    "rowid": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "cTitleCode": "DS101",
+    "cTitleDesc": "DSF Director",
+    "cUnionTitle": "Managerial",
+    "cFlsa": "X",
+    "fSlDays": 0,
+    "fAlDays": 0,
+    "fDhDays": 0,
+    "cDhGrant": null,
+    "cStatus": "A",
+    "rowid": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "cTitleCode": "DS200",
+    "cTitleDesc": "DSF UFT Employee",
+    "cUnionTitle": "UFT",
+    "cFlsa": "E",
+    "fSlDays": 0,
+    "fAlDays": 0,
+    "fDhDays": 0,
+    "cDhGrant": null,
+    "cStatus": null,
+    "rowid": "00000000-0000-0000-0000-000000000000"
+  }
+  ]
+},
+  
   "data": [
     {
       "adlId": 1,
