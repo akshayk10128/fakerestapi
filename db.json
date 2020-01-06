@@ -10,7 +10,8 @@
       "adlTitleCode": "12",
       "adlComments": "Comment1",
       "adlEnteredBy": 1,
-      "adlEnteredDate": "2019-11-1"
+      "adlEnteredDate": "2019-11-1",
+      "adlEmployee":"1"
     },
     {
       "adlId": 2,
@@ -22,7 +23,8 @@
       "adlTitle_code": "12",
       "adlComments": "Comment2",
       "adlEnteredBy": 1,
-      "adlEnteredDate": "2019-11-1"
+      "adlEnteredDate": "2019-11-1",
+      "adlEmployee":"2"
     }
   ]
 }
