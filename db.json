@@ -1,64 +1,64 @@
 {
-  
-  "adl":{
-  "data":[
-  {
-    "dBeginDate": "2005-11-21T00:00:00",
-    "dEndDate": "2005-12-10T00:00:00",
-    "nHours": 7.5,
-    "cComments": "",
-    "cWhoUpdate": "",
-    "dWhenUpdate": "2020-01-06T00:00:00",
-    "cType": "EMP",
-    "cDiv": "",
-    "cEmpId": "010890",
-    "cEmpName": "Crisafulli, Pauline -",
-    "cTitleCode": "",
-    "rowid": 0
+  "adl": {
+    "data": [
+      {
+        "dBeginDate": "2005-11-21T00:00:00",
+        "dEndDate": "2005-12-10T00:00:00",
+        "nHours": 7.5,
+        "cComments": "",
+        "cWhoUpdate": "",
+        "dWhenUpdate": "2020-01-06T00:00:00",
+        "cType": "EMP",
+        "cDiv": "",
+        "cEmpId": "010890",
+        "cEmpName": "Crisafulli, Pauline -",
+        "cTitleCode": "",
+        "rowid": 0
+      },
+      {
+        "dBeginDate": "2005-11-21T00:00:00",
+        "dEndDate": "2005-12-30T00:00:00",
+        "nHours": 7.5,
+        "cComments": null,
+        "cWhoUpdate": "001183",
+        "dWhenUpdate": "2006-01-03T11:09:39.25",
+        "cType": "EMP",
+        "cDiv": null,
+        "cEmpId": "014013",
+        "cEmpName": "Tichter, Manfred G",
+        "cTitleCode": null,
+        "rowid": 0
+      },
+      {
+        "dBeginDate": "2005-11-25T00:00:00",
+        "dEndDate": "2005-11-25T00:00:00",
+        "nHours": 5,
+        "cComments": "Approved by S Lawitts for Contracts/Contract Admin staff only",
+        "cWhoUpdate": "016126",
+        "dWhenUpdate": "2005-11-30T09:57:45.93",
+        "cType": "DIV",
+        "cDiv": "360",
+        "cEmpId": null,
+        "cEmpName": null,
+        "cTitleCode": null,
+        "rowid": 0
+      },
+      {
+        "dBeginDate": "2005-12-12T00:00:00",
+        "dEndDate": "2005-12-16T00:00:00",
+        "nHours": 7.5,
+        "cComments": null,
+        "cWhoUpdate": "001183",
+        "dWhenUpdate": "2005-12-16T12:00:34.186",
+        "cType": "EMP",
+        "cDiv": null,
+        "cEmpId": "010890",
+        "cEmpName": "Crisafulli, Pauline -",
+        "cTitleCode": null,
+        "rowid": 0
+      }
+    ]
   },
-  {
-    "dBeginDate": "2005-11-21T00:00:00",
-    "dEndDate": "2005-12-30T00:00:00",
-    "nHours": 7.5,
-    "cComments": null,
-    "cWhoUpdate": "001183",
-    "dWhenUpdate": "2006-01-03T11:09:39.25",
-    "cType": "EMP",
-    "cDiv": null,
-    "cEmpId": "014013",
-    "cEmpName": "Tichter, Manfred G",
-    "cTitleCode": null,
-    "rowid": 0
-  },
-  {
-    "dBeginDate": "2005-11-25T00:00:00",
-    "dEndDate": "2005-11-25T00:00:00",
-    "nHours": 5,
-    "cComments": "Approved by S Lawitts for Contracts/Contract Admin staff only",
-    "cWhoUpdate": "016126",
-    "dWhenUpdate": "2005-11-30T09:57:45.93",
-    "cType": "DIV",
-    "cDiv": "360",
-    "cEmpId": null,
-    "cEmpName": null,
-    "cTitleCode": null,
-    "rowid": 0
-  },
-  {
-    "dBeginDate": "2005-12-12T00:00:00",
-    "dEndDate": "2005-12-16T00:00:00",
-    "nHours": 7.5,
-    "cComments": null,
-    "cWhoUpdate": "001183",
-    "dWhenUpdate": "2005-12-16T12:00:34.186",
-    "cType": "EMP",
-    "cDiv": null,
-    "cEmpId": "010890",
-    "cEmpName": "Crisafulli, Pauline -",
-    "cTitleCode": null,
-    "rowid": 0
-  }
-]}
   "titleCode": {
     "data": [
       {
